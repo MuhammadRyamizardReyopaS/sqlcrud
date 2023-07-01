@@ -1,4 +1,4 @@
-pembahasan tentang crud
+PEMBAHASAN TENTANG CRUD
 
 1.definisi CRUD 
 
