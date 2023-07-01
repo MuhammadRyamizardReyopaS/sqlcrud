@@ -1,18 +1,5 @@
 pembahasan tentang crud
 
-Daftar Isi
-1.Definisi CRUD Adalah ?
-2.Fungsi Dari CRUD Adalah ?
--Create
--Read
--Update
--Delete
-3.Cara Kerja CRUD
-4.Kelebihan CRUD
-- Support Dari UI Bisa Berjalan Dengan Baik
-- Bisa Dipakai Di Berbagai Bahasa Pemrograman
-- Memudahkan Dalam Memahami Bahasa Pemrograman
-
 1.definisi CRUD adalah ?
 CRUD adalah sebuah akronim dalam dunia pemrograman komputer yang mengacu pada 4 fungsi penting dalam pembuatan aplikasi penyimpanan persisten. Setiap perusahaan tentu membutuhkan adanya penyimpanan berbagai informasi secara persisten yang akan disimpan pada sebuah database.
 
