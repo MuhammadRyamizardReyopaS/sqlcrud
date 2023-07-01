@@ -1,11 +1,13 @@
 pembahasan tentang crud
 
-1.definisi CRUD adalah ?
+1.definisi CRUD 
+
 CRUD adalah sebuah akronim dalam dunia pemrograman komputer yang mengacu pada 4 fungsi penting dalam pembuatan aplikasi penyimpanan persisten. Setiap perusahaan tentu membutuhkan adanya penyimpanan berbagai informasi secara persisten yang akan disimpan pada sebuah database.
 
 Jadi setiap huruf yang ada pada akronim tersebut memang mewakili setiap fungsi yang akan dijalankan pada database relasional. Selain itu juga fungsi untuk aplikasi yang digunakan untuk mengaturnya seperti MySQL, Oracle Database, dan lain sebagainya. Jadi pada dasarnya CRUD itu adalah sebuah akronim yang mewakili 4 fungsi utama dalam sebuah aplikasi penyimpanan database.
 
-2.fungsi dari CRUD adalah ?
+2.fungsi dari CRUD
+
 CRUD merupakan akronim dari 4 fungsi, jadi tentunya ada 4 fungsi yang dimiliki oleh CRUD ini yang mesti kalian pahami dulu. Kalian perlu memahami keempat fungsi tersebut agar supaya kalian itu bisa memanfaatkannya dengan baik.
 
 -Create
