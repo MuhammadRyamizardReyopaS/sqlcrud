@@ -9,7 +9,7 @@ CRUD adalah sebuah akronim dalam dunia pemrograman komputer yang mengacu pada 4 
 CRUD merupakan akronim dari 4 fungsi, jadi tentunya ada 4 fungsi yang dimiliki oleh CRUD ini yang mesti kalian pahami dulu. Kalian perlu memahami keempat fungsi tersebut agar supaya kalian itu bisa memanfaatkannya dengan baik.
 
 - Create
-Fungsi yang pertama itu adalah Create yang merupakan fitur untuk memungkinkan penggunanya untuk menciptakan catatan atau rekaman baru.
+Create yang merupakan fitur untuk memungkinkan penggunanya untuk menciptakan catatan atau rekaman baru.
 
 - Read
 Fungsi yang kedua itu adalah Read yang merupakan proses pengambilan informasi dari sebuah database yang dimiliki perusahaan.
